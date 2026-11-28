@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elasle.github.io/sitemap.xml
+Sitemap: https://elasle.github.io/oem-error-engine/sitemap.xml
+Sitemap: https://elasle.github.io/amazon-deal-hunter/sitemap.xml
+Sitemap: https://elasle.github.io/filter-charger-finder/sitemap.xml
